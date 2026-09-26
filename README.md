@@ -119,7 +119,7 @@ Given class imbalance, primary metrics:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/stroke-prediction.git
+git clone https://github.com/isha-sarwar19/Stroke-Prediction.git
 cd stroke-prediction
 
 # Install dependencies
